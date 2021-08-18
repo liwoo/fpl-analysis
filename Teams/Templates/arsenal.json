@@ -1,0 +1,6154 @@
+{
+  "players": [
+    {
+      "player": {
+        "name": "Pierre-Emerick Aubameyang",
+        "slug": "pierre-emerick-aubameyang",
+        "shortName": "P. Aubameyang",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 14,
+        "height": 187,
+        "preferredFoot": "Right",
+        "userCount": 40825,
+        "id": 51498,
+        "country": {
+          "alpha2": "GA",
+          "name": "Gabon"
+        },
+        "dateOfBirthTimestamp": 614131200,
+        "proposedMarketValue": 24000000
+      }
+    },
+    {
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 12,
+        "height": 175,
+        "preferredFoot": "Right",
+        "userCount": 18779,
+        "id": 31417,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "dateOfBirthTimestamp": 587088000,
+        "proposedMarketValue": 8700000
+      }
+    },
+    {
+      "player": {
+        "name": "Nicolas P\u00e9p\u00e9",
+        "slug": "nicolas-pepe",
+        "shortName": "N. P\u00e9p\u00e9",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 19,
+        "height": 183,
+        "preferredFoot": "Left",
+        "userCount": 13453,
+        "id": 593526,
+        "country": {
+          "alpha2": "CI",
+          "name": "Ivory Coast"
+        },
+        "dateOfBirthTimestamp": 801705600,
+        "proposedMarketValue": 38000000
+      }
+    },
+    {
+      "player": {
+        "name": "Alexandre Lacazette",
+        "firstName": "",
+        "lastName": "",
+        "slug": "alexandre-lacazette",
+        "shortName": "A. Lacazette",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 9,
+        "height": 176,
+        "preferredFoot": "Right",
+        "userCount": 11147,
+        "id": 50070,
+        "country": {
+          "alpha2": "FR",
+          "name": "France"
+        },
+        "dateOfBirthTimestamp": 675388800,
+        "proposedMarketValue": 29000000
+      }
+    },
+    {
+      "player": {
+        "name": "Edward Nketiah",
+        "slug": "edward-nketiah",
+        "shortName": "E. Nketiah",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 30,
+        "height": 175,
+        "preferredFoot": "Right",
+        "userCount": 2675,
+        "id": 858194,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 928022400,
+        "proposedMarketValue": 16500000
+      }
+    },
+    {
+      "player": {
+        "name": "Reiss Nelson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "reiss-nelson",
+        "shortName": "R. Nelson",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 24,
+        "height": 175,
+        "preferredFoot": "Right",
+        "userCount": 2404,
+        "id": 826139,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 944784000,
+        "proposedMarketValue": 9900000
+      }
+    },
+    {
+      "player": {
+        "name": "Folarin Balogun",
+        "slug": "folarin-balogun",
+        "shortName": "F. Balogun",
+        "team": {
+          "name": "Arsenal U23",
+          "slug": "arsenal-u23",
+          "shortName": "Arsenal U23",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League 2, Division 1",
+            "slug": "premier-league-2-division-1",
+            "category": {
+              "name": "England Amateur",
+              "slug": "england-amateur",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 252,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League 2",
+              "slug": "premier-league-2",
+              "category": {
+                "name": "England Amateur",
+                "slug": "england-amateur",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 252,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 4195,
+              "id": 1129
+            },
+            "id": 55398
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League 2",
+            "slug": "premier-league-2",
+            "category": {
+              "name": "England Amateur",
+              "slug": "england-amateur",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 252,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 4195,
+            "id": 1129
+          },
+          "userCount": 4826,
+          "nameCode": "ARS",
+          "national": false,
+          "type": 0,
+          "id": 36554,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#ff0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 38,
+        "height": 179,
+        "preferredFoot": "Right",
+        "userCount": 877,
+        "id": 934237,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 994118400,
+        "proposedMarketValue": 3600000
+      }
+    },
+    {
+      "player": {
+        "name": "Thomas Partey",
+        "firstName": "",
+        "lastName": "",
+        "slug": "thomas-partey",
+        "shortName": "Thomas",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 18,
+        "height": 185,
+        "preferredFoot": "Right",
+        "userCount": 17457,
+        "id": 316148,
+        "country": {
+          "alpha2": "GH",
+          "name": "Ghana"
+        },
+        "dateOfBirthTimestamp": 739929600,
+        "proposedMarketValue": 39000000
+      }
+    },
+    {
+      "player": {
+        "name": "Mohamed Elneny",
+        "slug": "mohamed-elneny",
+        "shortName": "M. Elneny",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 25,
+        "height": 180,
+        "preferredFoot": "Right",
+        "userCount": 9572,
+        "id": 159675,
+        "country": {
+          "alpha2": "EG",
+          "name": "Egypt"
+        },
+        "dateOfBirthTimestamp": 710812800,
+        "proposedMarketValue": 10800000
+      }
+    },
+    {
+      "player": {
+        "name": "Bukayo Saka",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bukayo-saka",
+        "shortName": "B. Saka",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 7,
+        "height": 178,
+        "preferredFoot": "Left",
+        "userCount": 8075,
+        "id": 934235,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 999648000,
+        "proposedMarketValue": 68000000
+      }
+    },
+    {
+      "player": {
+        "name": "Gabriel Martinelli",
+        "slug": "gabriel-martinelli",
+        "shortName": "G. Martinelli",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 35,
+        "height": 180,
+        "preferredFoot": "Right",
+        "userCount": 6901,
+        "id": 922573,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "dateOfBirthTimestamp": 992822400,
+        "proposedMarketValue": 21000000
+      }
+    },
+    {
+      "player": {
+        "name": "Granit Xhaka",
+        "slug": "granit-xhaka",
+        "shortName": "G. Xhaka",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 34,
+        "height": 185,
+        "preferredFoot": "Left",
+        "userCount": 4194,
+        "id": 117777,
+        "country": {
+          "alpha2": "CH",
+          "name": "Switzerland"
+        },
+        "dateOfBirthTimestamp": 717552000,
+        "proposedMarketValue": 23000000
+      }
+    },
+    {
+      "player": {
+        "name": "Lucas Torreira",
+        "firstName": "",
+        "lastName": "",
+        "slug": "lucas-torreira",
+        "shortName": "L. Torreira",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 5,
+        "height": 168,
+        "preferredFoot": "Right",
+        "userCount": 3839,
+        "id": 754794,
+        "country": {
+          "alpha2": "UY",
+          "name": "Uruguay"
+        },
+        "dateOfBirthTimestamp": 823996800,
+        "proposedMarketValue": 21000000
+      }
+    },
+    {
+      "player": {
+        "name": "Emile Smith Rowe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "emile-smith-rowe",
+        "shortName": "E. S. Rowe",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 32,
+        "height": 182,
+        "preferredFoot": "Right",
+        "userCount": 2846,
+        "id": 867445,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 964742400,
+        "proposedMarketValue": 16500000
+      }
+    },
+    {
+      "player": {
+        "name": "Joseph Willock",
+        "firstName": "",
+        "lastName": "",
+        "slug": "joseph-willock",
+        "shortName": "J. Willock",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 28,
+        "height": 186,
+        "preferredFoot": "Right",
+        "userCount": 2330,
+        "id": 888550,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 935107200,
+        "proposedMarketValue": 16600000
+      }
+    },
+    {
+      "player": {
+        "name": "Ainsley Maitland-Niles",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ainsley-maitland-niles",
+        "shortName": "A. Maitland-Niles",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 30,
+        "height": 178,
+        "preferredFoot": "Right",
+        "userCount": 1972,
+        "id": 352768,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 872812800,
+        "proposedMarketValue": 17400000
+      }
+    },
+    {
+      "player": {
+        "name": "Albert Sambi Lokonga",
+        "slug": "albert-sambi-lokonga",
+        "shortName": "A. S. Lokonga",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 48,
+        "height": 183,
+        "preferredFoot": "Right",
+        "userCount": 1346,
+        "id": 901892,
+        "country": {
+          "alpha2": "BE",
+          "name": "Belgium"
+        },
+        "dateOfBirthTimestamp": 940550400,
+        "proposedMarketValue": 12400000
+      }
+    },
+    {
+      "player": {
+        "name": "H\u00e9ctor Beller\u00edn",
+        "slug": "hector-bellerin",
+        "shortName": "H. Beller\u00edn",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 2,
+        "height": 178,
+        "preferredFoot": "Right",
+        "userCount": 3895,
+        "id": 188365,
+        "country": {
+          "alpha2": "ES",
+          "name": "Spain"
+        },
+        "dateOfBirthTimestamp": 795571200,
+        "proposedMarketValue": 26000000
+      }
+    },
+    {
+      "player": {
+        "name": "Gabriel Magalh\u00e3es",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-magalhaes",
+        "shortName": "Gabriel",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 6,
+        "height": 189,
+        "preferredFoot": "Left",
+        "userCount": 3611,
+        "id": 869792,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "dateOfBirthTimestamp": 882489600,
+        "proposedMarketValue": 23000000
+      }
+    },
+    {
+      "player": {
+        "name": "Kieran Tierney",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kieran-tierney",
+        "shortName": "K. Tierney",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 3,
+        "height": 178,
+        "preferredFoot": "Left",
+        "userCount": 3208,
+        "id": 366592,
+        "country": {
+          "alpha2": "SX",
+          "name": "Scotland"
+        },
+        "dateOfBirthTimestamp": 865468800,
+        "proposedMarketValue": 31000000
+      }
+    },
+    {
+      "player": {
+        "name": "Sead Kola\u0161inac",
+        "firstName": "",
+        "lastName": "",
+        "slug": "sead-kolasinac",
+        "shortName": "S. Kola\u0161inac",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 20,
+        "height": 183,
+        "preferredFoot": "Left",
+        "userCount": 2288,
+        "id": 142148,
+        "country": {
+          "alpha2": "BA",
+          "name": "Bosnia & Herzegovina"
+        },
+        "dateOfBirthTimestamp": 740534400,
+        "proposedMarketValue": 6900000
+      }
+    },
+    {
+      "player": {
+        "name": "Pablo Mar\u00ed",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pablo-mari",
+        "shortName": "P. Mar\u00ed",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 22,
+        "height": 191,
+        "preferredFoot": "Left",
+        "userCount": 1861,
+        "id": 208988,
+        "country": {
+          "alpha2": "ES",
+          "name": "Spain"
+        },
+        "dateOfBirthTimestamp": 746755200,
+        "proposedMarketValue": 7500000
+      }
+    },
+    {
+      "player": {
+        "name": "Rob Holding",
+        "slug": "rob-holding",
+        "shortName": "R. Holding",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 16,
+        "height": 189,
+        "preferredFoot": "Right",
+        "userCount": 1733,
+        "id": 793228,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 811555200,
+        "proposedMarketValue": 16600000
+      }
+    },
+    {
+      "player": {
+        "name": "Nuno Tavares",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nuno-tavares",
+        "shortName": "N. Tavares",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 71,
+        "height": 185,
+        "preferredFoot": "Left",
+        "userCount": 1620,
+        "id": 944973,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        },
+        "dateOfBirthTimestamp": 948844800,
+        "proposedMarketValue": 7300000
+      }
+    },
+    {
+      "player": {
+        "name": "C\u00e9dric Soares",
+        "firstName": "",
+        "lastName": "",
+        "slug": "cedric-soares",
+        "shortName": "C. Soares",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 17,
+        "height": 172,
+        "preferredFoot": "Right",
+        "userCount": 1614,
+        "id": 44760,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        },
+        "dateOfBirthTimestamp": 683596800,
+        "proposedMarketValue": 5600000
+      }
+    },
+    {
+      "player": {
+        "name": "Ben White",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ben-white",
+        "shortName": "B. White",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 3,
+        "height": 186,
+        "preferredFoot": "Right",
+        "userCount": 1543,
+        "id": 846036,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 876268800,
+        "proposedMarketValue": 26000000
+      }
+    },
+    {
+      "player": {
+        "name": "Calum Chambers",
+        "slug": "calum-chambers",
+        "shortName": "C. Chambers",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 21,
+        "height": 183,
+        "preferredFoot": "Right",
+        "userCount": 1049,
+        "id": 227942,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 790560000,
+        "proposedMarketValue": 11600000
+      }
+    },
+    {
+      "player": {
+        "name": "Bernd Leno",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bernd-leno",
+        "shortName": "B. Leno",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "G",
+        "shirtNumber": 1,
+        "height": 190,
+        "preferredFoot": "Right",
+        "userCount": 3794,
+        "id": 103335,
+        "country": {
+          "alpha2": "DE",
+          "name": "Germany"
+        },
+        "dateOfBirthTimestamp": 699667200,
+        "proposedMarketValue": 20000000
+      }
+    },
+    {
+      "player": {
+        "name": "R\u00fanar Alex R\u00fanarsson",
+        "slug": "runar-alex-runarsson",
+        "shortName": "R. R\u00fanarsson",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "G",
+        "shirtNumber": 13,
+        "height": 185,
+        "preferredFoot": "Right",
+        "userCount": 705,
+        "id": 187023,
+        "country": {
+          "alpha2": "IS",
+          "name": "Iceland"
+        },
+        "dateOfBirthTimestamp": 793065600,
+        "proposedMarketValue": 1400000
+      }
+    },
+    {
+      "player": {
+        "name": "Karl Hein",
+        "firstName": "",
+        "lastName": "",
+        "slug": "karl-hein",
+        "shortName": "K. Hein",
+        "team": {
+          "name": "Arsenal U23",
+          "slug": "arsenal-u23",
+          "shortName": "Arsenal U23",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League 2, Division 1",
+            "slug": "premier-league-2-division-1",
+            "category": {
+              "name": "England Amateur",
+              "slug": "england-amateur",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 252,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League 2",
+              "slug": "premier-league-2",
+              "category": {
+                "name": "England Amateur",
+                "slug": "england-amateur",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 252,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 4195,
+              "id": 1129
+            },
+            "id": 55398
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League 2",
+            "slug": "premier-league-2",
+            "category": {
+              "name": "England Amateur",
+              "slug": "england-amateur",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 252,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 4195,
+            "id": 1129
+          },
+          "userCount": 4826,
+          "nameCode": "ARS",
+          "national": false,
+          "type": 0,
+          "id": 36554,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#ff0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "G",
+        "shirtNumber": 44,
+        "height": 193,
+        "preferredFoot": "Right",
+        "userCount": 213,
+        "id": 991591,
+        "country": {
+          "alpha2": "EE",
+          "name": "Estonia"
+        },
+        "dateOfBirthTimestamp": 1018656000,
+        "proposedMarketValue": 440000
+      }
+    }
+  ],
+  "foreignPlayers": [
+    {
+      "player": {
+        "name": "Sead Kola\u0161inac",
+        "firstName": "",
+        "lastName": "",
+        "slug": "sead-kolasinac",
+        "shortName": "S. Kola\u0161inac",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 20,
+        "height": 183,
+        "preferredFoot": "Left",
+        "userCount": 2288,
+        "id": 142148,
+        "country": {
+          "alpha2": "BA",
+          "name": "Bosnia & Herzegovina"
+        },
+        "dateOfBirthTimestamp": 740534400,
+        "proposedMarketValue": 6900000
+      }
+    },
+    {
+      "player": {
+        "name": "Albert Sambi Lokonga",
+        "slug": "albert-sambi-lokonga",
+        "shortName": "A. S. Lokonga",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 48,
+        "height": 183,
+        "preferredFoot": "Right",
+        "userCount": 1346,
+        "id": 901892,
+        "country": {
+          "alpha2": "BE",
+          "name": "Belgium"
+        },
+        "dateOfBirthTimestamp": 940550400,
+        "proposedMarketValue": 12400000
+      }
+    },
+    {
+      "player": {
+        "name": "Gabriel Magalh\u00e3es",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-magalhaes",
+        "shortName": "Gabriel",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 6,
+        "height": 189,
+        "preferredFoot": "Left",
+        "userCount": 3611,
+        "id": 869792,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "dateOfBirthTimestamp": 882489600,
+        "proposedMarketValue": 23000000
+      }
+    },
+    {
+      "player": {
+        "name": "Gabriel Martinelli",
+        "slug": "gabriel-martinelli",
+        "shortName": "G. Martinelli",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 35,
+        "height": 180,
+        "preferredFoot": "Right",
+        "userCount": 6901,
+        "id": 922573,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "dateOfBirthTimestamp": 992822400,
+        "proposedMarketValue": 21000000
+      }
+    },
+    {
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 12,
+        "height": 175,
+        "preferredFoot": "Right",
+        "userCount": 18779,
+        "id": 31417,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "dateOfBirthTimestamp": 587088000,
+        "proposedMarketValue": 8700000
+      }
+    },
+    {
+      "player": {
+        "name": "Granit Xhaka",
+        "slug": "granit-xhaka",
+        "shortName": "G. Xhaka",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 34,
+        "height": 185,
+        "preferredFoot": "Left",
+        "userCount": 4194,
+        "id": 117777,
+        "country": {
+          "alpha2": "CH",
+          "name": "Switzerland"
+        },
+        "dateOfBirthTimestamp": 717552000,
+        "proposedMarketValue": 23000000
+      }
+    },
+    {
+      "player": {
+        "name": "Nicolas P\u00e9p\u00e9",
+        "slug": "nicolas-pepe",
+        "shortName": "N. P\u00e9p\u00e9",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 19,
+        "height": 183,
+        "preferredFoot": "Left",
+        "userCount": 13453,
+        "id": 593526,
+        "country": {
+          "alpha2": "CI",
+          "name": "Ivory Coast"
+        },
+        "dateOfBirthTimestamp": 801705600,
+        "proposedMarketValue": 38000000
+      }
+    },
+    {
+      "player": {
+        "name": "Bernd Leno",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bernd-leno",
+        "shortName": "B. Leno",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "G",
+        "shirtNumber": 1,
+        "height": 190,
+        "preferredFoot": "Right",
+        "userCount": 3794,
+        "id": 103335,
+        "country": {
+          "alpha2": "DE",
+          "name": "Germany"
+        },
+        "dateOfBirthTimestamp": 699667200,
+        "proposedMarketValue": 20000000
+      }
+    },
+    {
+      "player": {
+        "name": "Karl Hein",
+        "firstName": "",
+        "lastName": "",
+        "slug": "karl-hein",
+        "shortName": "K. Hein",
+        "team": {
+          "name": "Arsenal U23",
+          "slug": "arsenal-u23",
+          "shortName": "Arsenal U23",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League 2, Division 1",
+            "slug": "premier-league-2-division-1",
+            "category": {
+              "name": "England Amateur",
+              "slug": "england-amateur",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 252,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League 2",
+              "slug": "premier-league-2",
+              "category": {
+                "name": "England Amateur",
+                "slug": "england-amateur",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 252,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 4195,
+              "id": 1129
+            },
+            "id": 55398
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League 2",
+            "slug": "premier-league-2",
+            "category": {
+              "name": "England Amateur",
+              "slug": "england-amateur",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 252,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 4195,
+            "id": 1129
+          },
+          "userCount": 4826,
+          "nameCode": "ARS",
+          "national": false,
+          "type": 0,
+          "id": 36554,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#ff0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "G",
+        "shirtNumber": 44,
+        "height": 193,
+        "preferredFoot": "Right",
+        "userCount": 213,
+        "id": 991591,
+        "country": {
+          "alpha2": "EE",
+          "name": "Estonia"
+        },
+        "dateOfBirthTimestamp": 1018656000,
+        "proposedMarketValue": 440000
+      }
+    },
+    {
+      "player": {
+        "name": "Mohamed Elneny",
+        "slug": "mohamed-elneny",
+        "shortName": "M. Elneny",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 25,
+        "height": 180,
+        "preferredFoot": "Right",
+        "userCount": 9572,
+        "id": 159675,
+        "country": {
+          "alpha2": "EG",
+          "name": "Egypt"
+        },
+        "dateOfBirthTimestamp": 710812800,
+        "proposedMarketValue": 10800000
+      }
+    },
+    {
+      "player": {
+        "name": "H\u00e9ctor Beller\u00edn",
+        "slug": "hector-bellerin",
+        "shortName": "H. Beller\u00edn",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 2,
+        "height": 178,
+        "preferredFoot": "Right",
+        "userCount": 3895,
+        "id": 188365,
+        "country": {
+          "alpha2": "ES",
+          "name": "Spain"
+        },
+        "dateOfBirthTimestamp": 795571200,
+        "proposedMarketValue": 26000000
+      }
+    },
+    {
+      "player": {
+        "name": "Pablo Mar\u00ed",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pablo-mari",
+        "shortName": "P. Mar\u00ed",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 22,
+        "height": 191,
+        "preferredFoot": "Left",
+        "userCount": 1861,
+        "id": 208988,
+        "country": {
+          "alpha2": "ES",
+          "name": "Spain"
+        },
+        "dateOfBirthTimestamp": 746755200,
+        "proposedMarketValue": 7500000
+      }
+    },
+    {
+      "player": {
+        "name": "Alexandre Lacazette",
+        "firstName": "",
+        "lastName": "",
+        "slug": "alexandre-lacazette",
+        "shortName": "A. Lacazette",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 9,
+        "height": 176,
+        "preferredFoot": "Right",
+        "userCount": 11147,
+        "id": 50070,
+        "country": {
+          "alpha2": "FR",
+          "name": "France"
+        },
+        "dateOfBirthTimestamp": 675388800,
+        "proposedMarketValue": 29000000
+      }
+    },
+    {
+      "player": {
+        "name": "Pierre-Emerick Aubameyang",
+        "slug": "pierre-emerick-aubameyang",
+        "shortName": "P. Aubameyang",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 14,
+        "height": 187,
+        "preferredFoot": "Right",
+        "userCount": 40825,
+        "id": 51498,
+        "country": {
+          "alpha2": "GA",
+          "name": "Gabon"
+        },
+        "dateOfBirthTimestamp": 614131200,
+        "proposedMarketValue": 24000000
+      }
+    },
+    {
+      "player": {
+        "name": "Thomas Partey",
+        "firstName": "",
+        "lastName": "",
+        "slug": "thomas-partey",
+        "shortName": "Thomas",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 18,
+        "height": 185,
+        "preferredFoot": "Right",
+        "userCount": 17457,
+        "id": 316148,
+        "country": {
+          "alpha2": "GH",
+          "name": "Ghana"
+        },
+        "dateOfBirthTimestamp": 739929600,
+        "proposedMarketValue": 39000000
+      }
+    },
+    {
+      "player": {
+        "name": "R\u00fanar Alex R\u00fanarsson",
+        "slug": "runar-alex-runarsson",
+        "shortName": "R. R\u00fanarsson",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "G",
+        "shirtNumber": 13,
+        "height": 185,
+        "preferredFoot": "Right",
+        "userCount": 705,
+        "id": 187023,
+        "country": {
+          "alpha2": "IS",
+          "name": "Iceland"
+        },
+        "dateOfBirthTimestamp": 793065600,
+        "proposedMarketValue": 1400000
+      }
+    },
+    {
+      "player": {
+        "name": "C\u00e9dric Soares",
+        "firstName": "",
+        "lastName": "",
+        "slug": "cedric-soares",
+        "shortName": "C. Soares",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 17,
+        "height": 172,
+        "preferredFoot": "Right",
+        "userCount": 1614,
+        "id": 44760,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        },
+        "dateOfBirthTimestamp": 683596800,
+        "proposedMarketValue": 5600000
+      }
+    },
+    {
+      "player": {
+        "name": "Nuno Tavares",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nuno-tavares",
+        "shortName": "N. Tavares",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 71,
+        "height": 185,
+        "preferredFoot": "Left",
+        "userCount": 1620,
+        "id": 944973,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        },
+        "dateOfBirthTimestamp": 948844800,
+        "proposedMarketValue": 7300000
+      }
+    },
+    {
+      "player": {
+        "name": "Kieran Tierney",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kieran-tierney",
+        "shortName": "K. Tierney",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 3,
+        "height": 178,
+        "preferredFoot": "Left",
+        "userCount": 3208,
+        "id": 366592,
+        "country": {
+          "alpha2": "SX",
+          "name": "Scotland"
+        },
+        "dateOfBirthTimestamp": 865468800,
+        "proposedMarketValue": 31000000
+      }
+    },
+    {
+      "player": {
+        "name": "Lucas Torreira",
+        "firstName": "",
+        "lastName": "",
+        "slug": "lucas-torreira",
+        "shortName": "L. Torreira",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 5,
+        "height": 168,
+        "preferredFoot": "Right",
+        "userCount": 3839,
+        "id": 754794,
+        "country": {
+          "alpha2": "UY",
+          "name": "Uruguay"
+        },
+        "dateOfBirthTimestamp": 823996800,
+        "proposedMarketValue": 21000000
+      }
+    }
+  ],
+  "nationalPlayers": [
+    {
+      "player": {
+        "name": "Granit Xhaka",
+        "slug": "granit-xhaka",
+        "shortName": "G. Xhaka",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 34,
+        "height": 185,
+        "preferredFoot": "Left",
+        "userCount": 4194,
+        "id": 117777,
+        "country": {
+          "alpha2": "CH",
+          "name": "Switzerland"
+        },
+        "dateOfBirthTimestamp": 717552000,
+        "proposedMarketValue": 23000000
+      }
+    },
+    {
+      "player": {
+        "name": "Nicolas P\u00e9p\u00e9",
+        "slug": "nicolas-pepe",
+        "shortName": "N. P\u00e9p\u00e9",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 19,
+        "height": 183,
+        "preferredFoot": "Left",
+        "userCount": 13453,
+        "id": 593526,
+        "country": {
+          "alpha2": "CI",
+          "name": "Ivory Coast"
+        },
+        "dateOfBirthTimestamp": 801705600,
+        "proposedMarketValue": 38000000
+      }
+    },
+    {
+      "player": {
+        "name": "Bernd Leno",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bernd-leno",
+        "shortName": "B. Leno",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "G",
+        "shirtNumber": 1,
+        "height": 190,
+        "preferredFoot": "Right",
+        "userCount": 3794,
+        "id": 103335,
+        "country": {
+          "alpha2": "DE",
+          "name": "Germany"
+        },
+        "dateOfBirthTimestamp": 699667200,
+        "proposedMarketValue": 20000000
+      }
+    },
+    {
+      "player": {
+        "name": "Karl Hein",
+        "firstName": "",
+        "lastName": "",
+        "slug": "karl-hein",
+        "shortName": "K. Hein",
+        "team": {
+          "name": "Arsenal U23",
+          "slug": "arsenal-u23",
+          "shortName": "Arsenal U23",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League 2, Division 1",
+            "slug": "premier-league-2-division-1",
+            "category": {
+              "name": "England Amateur",
+              "slug": "england-amateur",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 252,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League 2",
+              "slug": "premier-league-2",
+              "category": {
+                "name": "England Amateur",
+                "slug": "england-amateur",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 252,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 4195,
+              "id": 1129
+            },
+            "id": 55398
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League 2",
+            "slug": "premier-league-2",
+            "category": {
+              "name": "England Amateur",
+              "slug": "england-amateur",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 252,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 4195,
+            "id": 1129
+          },
+          "userCount": 4826,
+          "nameCode": "ARS",
+          "national": false,
+          "type": 0,
+          "id": 36554,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#ff0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "G",
+        "shirtNumber": 44,
+        "height": 193,
+        "preferredFoot": "Right",
+        "userCount": 213,
+        "id": 991591,
+        "country": {
+          "alpha2": "EE",
+          "name": "Estonia"
+        },
+        "dateOfBirthTimestamp": 1018656000,
+        "proposedMarketValue": 440000
+      }
+    },
+    {
+      "player": {
+        "name": "Mohamed Elneny",
+        "slug": "mohamed-elneny",
+        "shortName": "M. Elneny",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 25,
+        "height": 180,
+        "preferredFoot": "Right",
+        "userCount": 9572,
+        "id": 159675,
+        "country": {
+          "alpha2": "EG",
+          "name": "Egypt"
+        },
+        "dateOfBirthTimestamp": 710812800,
+        "proposedMarketValue": 10800000
+      }
+    },
+    {
+      "player": {
+        "name": "Ben White",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ben-white",
+        "shortName": "B. White",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 3,
+        "height": 186,
+        "preferredFoot": "Right",
+        "userCount": 1543,
+        "id": 846036,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 876268800,
+        "proposedMarketValue": 26000000
+      }
+    },
+    {
+      "player": {
+        "name": "Bukayo Saka",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bukayo-saka",
+        "shortName": "B. Saka",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 7,
+        "height": 178,
+        "preferredFoot": "Left",
+        "userCount": 8075,
+        "id": 934235,
+        "country": {
+          "alpha2": "EN",
+          "name": "England"
+        },
+        "dateOfBirthTimestamp": 999648000,
+        "proposedMarketValue": 68000000
+      }
+    },
+    {
+      "player": {
+        "name": "Pierre-Emerick Aubameyang",
+        "slug": "pierre-emerick-aubameyang",
+        "shortName": "P. Aubameyang",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "F",
+        "shirtNumber": 14,
+        "height": 187,
+        "preferredFoot": "Right",
+        "userCount": 40825,
+        "id": 51498,
+        "country": {
+          "alpha2": "GA",
+          "name": "Gabon"
+        },
+        "dateOfBirthTimestamp": 614131200,
+        "proposedMarketValue": 24000000
+      }
+    },
+    {
+      "player": {
+        "name": "Thomas Partey",
+        "firstName": "",
+        "lastName": "",
+        "slug": "thomas-partey",
+        "shortName": "Thomas",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 18,
+        "height": 185,
+        "preferredFoot": "Right",
+        "userCount": 17457,
+        "id": 316148,
+        "country": {
+          "alpha2": "GH",
+          "name": "Ghana"
+        },
+        "dateOfBirthTimestamp": 739929600,
+        "proposedMarketValue": 39000000
+      }
+    },
+    {
+      "player": {
+        "name": "R\u00fanar Alex R\u00fanarsson",
+        "slug": "runar-alex-runarsson",
+        "shortName": "R. R\u00fanarsson",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "G",
+        "shirtNumber": 13,
+        "height": 185,
+        "preferredFoot": "Right",
+        "userCount": 705,
+        "id": 187023,
+        "country": {
+          "alpha2": "IS",
+          "name": "Iceland"
+        },
+        "dateOfBirthTimestamp": 793065600,
+        "proposedMarketValue": 1400000
+      }
+    },
+    {
+      "player": {
+        "name": "Kieran Tierney",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kieran-tierney",
+        "shortName": "K. Tierney",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "D",
+        "shirtNumber": 3,
+        "height": 178,
+        "preferredFoot": "Left",
+        "userCount": 3208,
+        "id": 366592,
+        "country": {
+          "alpha2": "SX",
+          "name": "Scotland"
+        },
+        "dateOfBirthTimestamp": 865468800,
+        "proposedMarketValue": 31000000
+      }
+    },
+    {
+      "player": {
+        "name": "Lucas Torreira",
+        "firstName": "",
+        "lastName": "",
+        "slug": "lucas-torreira",
+        "shortName": "L. Torreira",
+        "team": {
+          "name": "Arsenal",
+          "slug": "arsenal",
+          "shortName": "Arsenal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "uniqueTournament": {
+              "name": "Premier League",
+              "slug": "premier-league",
+              "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+              },
+              "userCount": 785068,
+              "id": 17
+            },
+            "id": 1
+          },
+          "primaryUniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+              "name": "England",
+              "slug": "england",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "id": 1,
+              "flag": "england",
+              "alpha2": "EN"
+            },
+            "userCount": 785068,
+            "id": 17
+          },
+          "userCount": 469635,
+          "nameCode": "ARS",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 42,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "position": "M",
+        "shirtNumber": 5,
+        "height": 168,
+        "preferredFoot": "Right",
+        "userCount": 3839,
+        "id": 754794,
+        "country": {
+          "alpha2": "UY",
+          "name": "Uruguay"
+        },
+        "dateOfBirthTimestamp": 823996800,
+        "proposedMarketValue": 21000000
+      }
+    }
+  ]
+}

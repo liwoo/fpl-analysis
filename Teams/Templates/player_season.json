@@ -1,0 +1,539 @@
+{
+  "uniqueTournamentSeasons": [
+    {
+      "uniqueTournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "name": "England",
+          "slug": "england",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1,
+          "flag": "england",
+          "alpha2": "EN"
+        },
+        "userCount": 786651,
+        "id": 17
+      },
+      "seasons": [
+        {
+          "name": "Premier League 20\/21",
+          "year": "20\/21",
+          "id": 29415
+        }
+      ]
+    },
+    {
+      "uniqueTournament": {
+        "name": "LaLiga",
+        "slug": "laliga",
+        "category": {
+          "name": "Spain",
+          "slug": "spain",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 32,
+          "flag": "spain",
+          "alpha2": "ES"
+        },
+        "userCount": 577495,
+        "id": 8
+      },
+      "seasons": [
+        {
+          "name": "LaLiga 20\/21",
+          "year": "20\/21",
+          "id": 32501
+        },
+        {
+          "name": "LaLiga 19\/20",
+          "year": "19\/20",
+          "id": 24127
+        },
+        {
+          "name": "LaLiga 18\/19",
+          "year": "18\/19",
+          "id": 18020
+        },
+        {
+          "name": "LaLiga 17\/18",
+          "year": "17\/18",
+          "id": 13662
+        },
+        {
+          "name": "LaLiga 16\/17",
+          "year": "16\/17",
+          "id": 11906
+        },
+        {
+          "name": "Primera Division 15\/16",
+          "year": "15\/16",
+          "id": 10495
+        },
+        {
+          "name": "Primera Division 14\/15",
+          "year": "14\/15",
+          "id": 8578
+        }
+      ]
+    },
+    {
+      "uniqueTournament": {
+        "name": "UEFA Champions League",
+        "slug": "uefa-champions-league",
+        "category": {
+          "name": "Europe",
+          "slug": "europe",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1465,
+          "flag": "europe"
+        },
+        "userCount": 757727,
+        "id": 7
+      },
+      "seasons": [
+        {
+          "name": "UEFA Champions League 19\/20",
+          "year": "19\/20",
+          "id": 23766
+        },
+        {
+          "name": "UEFA Champions League 18\/19",
+          "year": "18\/19",
+          "id": 17351
+        },
+        {
+          "name": "UEFA Champions League 17\/18",
+          "year": "17\/18",
+          "id": 13415
+        },
+        {
+          "name": "UEFA Champions League 16\/17",
+          "year": "16\/17",
+          "id": 11773
+        },
+        {
+          "name": "UEFA Champions League 15\/16",
+          "year": "15\/16",
+          "id": 10390
+        }
+      ]
+    },
+    {
+      "uniqueTournament": {
+        "name": "Copa del Rey",
+        "slug": "copa-del-rey",
+        "category": {
+          "name": "Spain",
+          "slug": "spain",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 32,
+          "flag": "spain",
+          "alpha2": "ES"
+        },
+        "userCount": 144095,
+        "id": 329
+      },
+      "seasons": [
+        {
+          "name": "Copa del Rey 18\/19",
+          "year": "18\/19",
+          "id": 18173
+        },
+        {
+          "name": "Copa del Rey 17\/18",
+          "year": "17\/18",
+          "id": 14023
+        },
+        {
+          "name": "Copa del Rey 16\/17",
+          "year": "16\/17",
+          "id": 11974
+        },
+        {
+          "name": "Copa del Rey 15\/16",
+          "year": "15\/16",
+          "id": 10551
+        },
+        {
+          "name": "Copa del Rey 14\/15",
+          "year": "14\/15",
+          "id": 8670
+        },
+        {
+          "name": "Copa del Rey 13\/14",
+          "year": "13\/14",
+          "id": 6999
+        }
+      ]
+    },
+    {
+      "uniqueTournament": {
+        "name": "International Champions Cup",
+        "slug": "international-champions-cup",
+        "category": {
+          "name": "World",
+          "slug": "world",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1468,
+          "flag": "international"
+        },
+        "userCount": 41084,
+        "id": 1337
+      },
+      "seasons": [
+        {
+          "name": "Int. Champions Cup 2019",
+          "year": "2019",
+          "id": 23027
+        },
+        {
+          "name": "Int. Champions Cup 2018",
+          "year": "2018",
+          "id": 17047
+        },
+        {
+          "name": "Int. Champions Cup 2016",
+          "year": "2016",
+          "id": 11727
+        }
+      ]
+    },
+    {
+      "uniqueTournament": {
+        "name": "Africa Cup of Nations",
+        "slug": "africa-cup-of-nations",
+        "category": {
+          "name": "Africa",
+          "slug": "africa",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1466,
+          "flag": "africa"
+        },
+        "userCount": 97719,
+        "id": 270
+      },
+      "seasons": [
+        {
+          "name": "Africa Cup of Nations 2019",
+          "year": "2019",
+          "id": 23112
+        },
+        {
+          "name": "Africa Cup of Nations 2017",
+          "year": "2017",
+          "id": 12586
+        }
+      ]
+    },
+    {
+      "uniqueTournament": {
+        "name": "UEFA Super Cup",
+        "slug": "uefa-super-cup",
+        "category": {
+          "name": "Europe",
+          "slug": "europe",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1465,
+          "flag": "europe"
+        },
+        "userCount": 88932,
+        "id": 465
+      },
+      "seasons": [
+        {
+          "name": "UEFA Super Cup 2018",
+          "year": "2018",
+          "id": 17168
+        }
+      ]
+    },
+    {
+      "uniqueTournament": {
+        "name": "Super Cup",
+        "slug": "super-cup",
+        "category": {
+          "name": "Spain",
+          "slug": "spain",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 32,
+          "flag": "spain",
+          "alpha2": "ES"
+        },
+        "userCount": 62442,
+        "id": 213
+      },
+      "seasons": [
+        {
+          "name": "Super Cup 2020",
+          "year": "2020",
+          "id": 26219
+        }
+      ]
+    },
+    {
+      "uniqueTournament": {
+        "name": "UEFA Europa League",
+        "slug": "uefa-europa-league",
+        "category": {
+          "name": "Europe",
+          "slug": "europe",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1465,
+          "flag": "europe"
+        },
+        "userCount": 398431,
+        "id": 679
+      },
+      "seasons": [
+        {
+          "name": "UEFA Europa League 20\/21",
+          "year": "20\/21",
+          "id": 29343
+        },
+        {
+          "name": "UEFA Europa League 17\/18",
+          "year": "17\/18",
+          "id": 13416
+        }
+      ]
+    },
+    {
+      "uniqueTournament": {
+        "name": "FA Cup",
+        "slug": "fa-cup",
+        "category": {
+          "name": "England",
+          "slug": "england",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1,
+          "flag": "england",
+          "alpha2": "EN"
+        },
+        "userCount": 166592,
+        "id": 19
+      },
+      "seasons": [
+        {
+          "name": "FA Cup 20\/21",
+          "year": "20\/21",
+          "id": 34650
+        }
+      ]
+    },
+    {
+      "uniqueTournament": {
+        "name": "LaLiga 2",
+        "slug": "laliga-2",
+        "category": {
+          "name": "Spain",
+          "slug": "spain",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 32,
+          "flag": "spain",
+          "alpha2": "ES"
+        },
+        "userCount": 44712,
+        "id": 54
+      },
+      "seasons": [
+        {
+          "name": "Segunda Division 13\/14",
+          "year": "13\/14",
+          "id": 6767
+        }
+      ]
+    }
+  ],
+  "typesMap": {
+    "8": {
+      "18020": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "10495": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "8578": [
+        "overall"
+      ],
+      "24127": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "11906": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "32501": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "13662": [
+        "overall",
+        "home",
+        "away"
+      ]
+    },
+    "7": {
+      "17351": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "13415": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "11773": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "23766": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "10390": [
+        "overall",
+        "home",
+        "away"
+      ]
+    },
+    "329": {
+      "14023": [
+        "overall"
+      ],
+      "11974": [
+        "overall"
+      ],
+      "18173": [
+        "overall"
+      ],
+      "8670": [
+        "overall"
+      ],
+      "10551": [
+        "overall"
+      ],
+      "6999": [
+        "overall"
+      ]
+    },
+    "1337": {
+      "23027": [
+        "overall"
+      ],
+      "17047": [
+        "overall"
+      ],
+      "11727": [
+        "overall"
+      ]
+    },
+    "270": {
+      "23112": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "12586": [
+        "overall",
+        "home",
+        "away"
+      ]
+    },
+    "465": {
+      "17168": [
+        "overall",
+        "away"
+      ]
+    },
+    "17": {
+      "29415": [
+        "overall",
+        "home",
+        "away"
+      ]
+    },
+    "213": {
+      "26219": [
+        "overall",
+        "away"
+      ]
+    },
+    "679": {
+      "29343": [
+        "overall",
+        "home",
+        "away"
+      ],
+      "13416": [
+        "overall",
+        "home",
+        "away"
+      ]
+    },
+    "19": {
+      "34650": [
+        "overall"
+      ]
+    },
+    "54": {
+      "6767": [
+        "overall"
+      ]
+    }
+  }
+}
