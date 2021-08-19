@@ -26,7 +26,7 @@ let writer = new StreamWriter(transformPath)
 
 type PlayerStat = { PlayerId: int; Stats: PlayerStats }
 
-let skip = 250
+let skip = 0
 let truncate = 50
 
 let stats =

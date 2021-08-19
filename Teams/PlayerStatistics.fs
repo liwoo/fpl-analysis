@@ -1,8 +1,8 @@
 module Teams.PlayerStatistics
 
-#r "nuget: FSharp.Data"
-#r "nuget: dotenv.net"
-#load "Outcome.fs"
+//#r "nuget: FSharp.Data"
+//#r "nuget: dotenv.net"
+//#load "Outcome.fs"
 
 open System
 open Microsoft.FSharp.Collections
@@ -10,7 +10,7 @@ open FSharp.Data
 open Teams.Rop
 open dotenv.net
 
-DotEnv.Load()
+//DotEnv.Load()
 
 let rapidKey =
     Environment.GetEnvironmentVariable("RAPID_KEY")
